@@ -4,7 +4,7 @@
 
 Lately I go deep on production LLM patterns — retrieval (RAG), agentic workflows and multi-model orchestration — and self-host most of it on a Proxmox homelab.
 
-🟢 **Open to remote roles (US/EU time zones)** — contract or full-time. Based in Brazil.
+Based in Brazil.
 
 ---
 
