@@ -1,6 +1,6 @@
 ### Hi, I'm Leônidas 👋
 
-**Senior Full-Stack Engineer** building AI-powered products — `React` · `Next.js` · `TypeScript` on the front, `Node.js` · `FastAPI` · `Python` on the back. 6+ years shipping across SaaS, healthcare, e-commerce, Web3 and real-time analytics, with a broader tech background since 2010.
+**Software Engineer** building AI-powered products — `React` · `Next.js` · `TypeScript` on the front, `Node.js` · `FastAPI` · `Python` on the back. 6+ years shipping across SaaS, healthcare, e-commerce, Web3 and real-time analytics, with a broader tech background since 2010.
 
 Lately I go deep on production LLM patterns — retrieval (RAG), agentic workflows and multi-model orchestration — and self-host most of it on a Proxmox homelab.
 
