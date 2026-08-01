@@ -18,4 +18,4 @@ My current focus is LLM systems in production — retrieval (RAG), agentic workf
  **[leonidasamaro.com](https://leonidasamaro.com)**
 
 #### 📫 Reach me
-[Portfolio](https://leonidasamaro.com) · [LinkedIn](https://www.linkedin.com/in/augustoamaro) · augustoamaro@proton.me
+[LinkedIn](https://www.linkedin.com/in/augustoamaro) · augustoamaro@proton.me
