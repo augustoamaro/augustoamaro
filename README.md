@@ -4,8 +4,6 @@
 
 My current focus is LLM systems in production — retrieval (RAG), agentic workflows and multi-model orchestration — built, deployed and operated end to end, most of it self-hosted on a Proxmox homelab.
 
-🟢 **Open to remote roles (US/EU time zones)** — contract or full-time. Based in Brazil.
-
 ---
 
 #### 🛠️ Stack
