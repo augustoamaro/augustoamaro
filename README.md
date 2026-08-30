@@ -17,8 +17,8 @@ My recent work spans **applied AI and evaluation, reliable event delivery, realt
 
 #### Core stack
 
+- **Frontend:** React · Next.js · TypeScript · Tailwind CSS
 - **Backend:** Python · FastAPI · Node.js · PostgreSQL · Redis · WebSockets
-- **Frontend:** React · Next.js · TypeScript · Vue/Nuxt · Tailwind CSS
 - **AI / LLM:** RAG / retrieval · evaluation · multimodal workflows · multi-provider integrations
 - **Infra:** Docker · Ansible · Proxmox · CI/CD · OpenTelemetry
 
